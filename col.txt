@@ -1,0 +1,14 @@
+Collections:
+-List(indexed,duplicates,insertion order)
+ -ArrayList(continues memory allocation)
+ -LinkedList(random memory allocation having associated address to next value)
+-Set(non-indexed,unique)
+ -HashSet(random order)
+ -LinkedHashSet(insertion order)
+ -TreeSet(ascending)
+-Map(2D,custom-indexed,key-value)
+ -HashMap(random order of key)
+ -LinkedHashMap(insertion order of keys)
+ -TreeMap(ascending order of keys)
+
+

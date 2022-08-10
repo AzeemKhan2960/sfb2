@@ -1,0 +1,7 @@
+@Override
+@SuppressWarnings
+@Deprecated
+@FunctionalInterface
+@Target - class(TargetType.TYPE)/method(TargetType.METHOD)/variable(TargetType.FIELD)
+@Retention(RetentionPolicy.SOURCE/CLASS/RUNTIME)
+@interface
